@@ -2,13 +2,7 @@
 ~Hi~
 
 -  ✨  This is my account
--  ✨  I'm learning C# and python
-
-- ⚡ print("Hello World")  
-- ⚡ Console.WriteLine("Hello World")
-- ⚡ cout << "Hello World";
-- ⚡ TextWindow.WriteLine("Hello World")
-
+✨ 
 
 
 
